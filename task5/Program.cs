@@ -5,10 +5,9 @@
 
 
 Console.Write("Введите число N = "); 
+
 int N = int.Parse(Console.ReadLine());
 
-double b = N / 3.0;
+int a = N%10;
 
-Console.Write("Деление с остатком ");
-Console.WriteLine(N%10);
-Console.Write("Целочисленное деление" + " " + b + " ");
+Console.Write("Деление с остатком " + " " + a);
