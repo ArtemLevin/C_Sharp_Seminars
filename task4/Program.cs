@@ -3,6 +3,7 @@
 // 2 -> " -2, -1, 0, 1, 2"
 
 Console.Write("Введите число N = "); 
+
 int N = int.Parse(Console.ReadLine()!); 
 
 int a = -N;
