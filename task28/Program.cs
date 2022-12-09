@@ -6,7 +6,7 @@
 Console.WriteLine("Введите число "); // просим пользователя ввести число
 int N = int.Parse(Console.ReadLine()); // компьютер принимает от пользователя число
 
-void proizv(int num) // объявление метода
+void Proizv(int num) // объявление метода
 
 {
     int i = 1;
@@ -23,4 +23,4 @@ void proizv(int num) // объявление метода
     Console.WriteLine($"Произведение равно: {proizvedenie} ");
 }
 
-proizv(N);
+Proizv(N);

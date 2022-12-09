@@ -4,7 +4,7 @@
 int[] array = new int[8];
 int i = 0;
 
-while (i <=7)
+while(i <=7)
 {
     int k = new Random().Next(0,2);
     array[i] = k;

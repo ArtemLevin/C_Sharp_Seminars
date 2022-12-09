@@ -5,18 +5,18 @@
 
 Console.Write("Введите число "); // просим пользователя ввести число
 int x = int.Parse(Console.ReadLine()); // компьютер принимает от пользователя число
-void ost (int num) // объявление метода
+void Ost(int num) // объявление метода
 {
     int counter = 0; // 
     
-    while (num !=0)
+    while(num !=0)
     {    
         num /= 10; // сколько раз делили на 10 число с остатком столько цифр и находится в числе
         counter ++;
     }
 
-    Console.WriteLine ($"Количество цифр в числе: {counter} ");
+    Console.WriteLine($"Количество цифр в числе: {counter} ");
 
 }
 
-ost (x);
+Ost (x);

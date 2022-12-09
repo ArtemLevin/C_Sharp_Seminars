@@ -4,7 +4,7 @@
 Console.Write("Введите длину массива ");
 int N = int.Parse(Console.ReadLine());
 
-void massive(int dlina)
+int[] massive(int dlina)
 
 {
     int[] array = new int[dlina];
@@ -14,22 +14,37 @@ void massive(int dlina)
     {
         int k = new Random().Next(0, 2);
         array[i] = k;
-    if (i == 0)
-    {
-        Console.Write("[ " + array[i] + ", ");
-    }
-    if (i == dlina - 1)
-    {
-        Console.Write(array[i] + " ]");
-    }
-    if (i >0 && i < dlina - 1) 
-    {
-        Console.Write(array[i] + ", ");
-    }
         i++;
     }
+    return array;
 
 }
 
 massive(N);
+
+void PrintArray(int [] initarray)
+{
+    int dlina = initarray.Length;
+    int i = 0;
+
+    while (i < dlina)
+    {
+
+    if (i == 0)
+        {
+            Console.Write("[ " + initarray[i] + ", ");
+        }
+        if (i == dlina - 1)
+        {
+            Console.Write(initarray[i] + " ]");
+        }
+        if (i >0 && i < dlina - 1) 
+        {
+            Console.Write(initarray[i] + ", ");
+        }
+        i++;
+    }
+}
+
+PrintArray(massive(N));
 
