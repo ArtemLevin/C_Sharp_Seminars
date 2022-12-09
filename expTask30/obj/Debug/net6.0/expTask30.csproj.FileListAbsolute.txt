@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\bin\Debug\net6.0\expTask30.exe
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\bin\Debug\net6.0\expTask30.deps.json
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\bin\Debug\net6.0\expTask30.runtimeconfig.json
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\bin\Debug\net6.0\expTask30.dll
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\bin\Debug\net6.0\expTask30.pdb
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\obj\Debug\net6.0\expTask30.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\obj\Debug\net6.0\expTask30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\obj\Debug\net6.0\expTask30.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\obj\Debug\net6.0\expTask30.AssemblyInfo.cs
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\obj\Debug\net6.0\expTask30.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\obj\Debug\net6.0\expTask30.dll
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\obj\Debug\net6.0\refint\expTask30.dll
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\obj\Debug\net6.0\expTask30.pdb
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\obj\Debug\net6.0\expTask30.genruntimeconfig.cache
+C:\Users\PC\Desktop\C_Sharp_Seminars\expTask30\obj\Debug\net6.0\ref\expTask30.dll
